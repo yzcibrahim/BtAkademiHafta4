@@ -17,5 +17,6 @@ namespace _03_KisiTakip
             InitializeComponent();
         }
 
+      
     }
 }

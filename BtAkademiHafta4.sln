@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_DosyaOkumaYazma", "01_DosyaOkumaYazma\01_DosyaOkumaYazma.csproj", "{198C57BC-EE27-479F-8DB3-B9380A049426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_WinformIlkForm", "02_WinformIlkForm\02_WinformIlkForm.csproj", "{69E7444F-BE96-4913-A5C9-F8634E7C676E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_WinformIlkForm", "02_WinformIlkForm\02_WinformIlkForm.csproj", "{69E7444F-BE96-4913-A5C9-F8634E7C676E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_KisiTakip", "03_KisiTakip\03_KisiTakip.csproj", "{FAB98D35-793F-4DA3-803A-330211748F24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_KisiTakip", "03_KisiTakip\03_KisiTakip.csproj", "{FAB98D35-793F-4DA3-803A-330211748F24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Componentler", "04_Componentler\04_Componentler.csproj", "{25E2138B-49DD-474D-993A-BD1EDF198311}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Componentler", "04_Componentler\04_Componentler.csproj", "{25E2138B-49DD-474D-993A-BD1EDF198311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

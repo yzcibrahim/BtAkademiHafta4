@@ -8,6 +8,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Reference Include="05_Tipler">
+      <HintPath>..\..\BtAkademiHafta3\05_Tipler\bin\Debug\net5.0\05_Tipler.dll</HintPath>
+    </Reference>
+    <Reference Include="08_DosyaRepository">
+      <HintPath>..\..\BtAkademiHafta3\08_DosyaRepository\bin\Debug\net5.0\08_DosyaRepository.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="FormComponentMove.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormKisiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Form2.cs">
       <SubType>Form</SubType>
     </Compile>

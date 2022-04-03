@@ -76,5 +76,17 @@ namespace _04_Componentler
             // frm.Show();
             frm.ShowDialog();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormKisiler frm = new FormKisiler();
+            frm.ShowDialog();
+        }
+
+        private void btn5_Click(object sender, EventArgs e)
+        {
+            FormComponentMove frm = new FormComponentMove();
+            frm.Show();
+        }
     }
 }
